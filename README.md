@@ -43,3 +43,15 @@ Ensure that you have the following dependencies installed:
 - **Python 3.11.3** (for data processing)  
 - **NumPy**, **Matplotlib** (for visualization)  
 
+## References
+
+- **Baker, A. A., Davies, C. S., Figueroa, A. I., Shelford, L. R., van der Laan, G., & Hesjedal, T.**  
+  *Modelling ferromagnetic resonance in magnetic multilayers: Exchange coupling and demagnetisation-driven effects*,  
+  *Journal of Applied Physics*, **115**(17), 17D140 (2014).  
+  DOI: [10.1063/1.4868185](https://doi.org/10.1063/1.4868185)  
+  [PDF Link](https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/1.4868185/14117278/17d140_1_online.pdf)  
+
+- **Chernyshenko, Dmitri**  
+  *Computational methods in micromagnetics*,  
+  *PhD Thesis*, University of Southampton, June 2016.  
+  URL: [https://eprints.soton.ac.uk/398126/](https://eprints.soton.ac.uk/398126/)  
