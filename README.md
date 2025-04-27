@@ -31,6 +31,8 @@ Click the thumbnail above to watch an in-depth explanation of the simulation pro
 
 4️⃣ **Frequency Analysis:**  
    - The **Fast Fourier Transform (FFT)** is applied to extract resonance spectra for comparison.  
+5️⃣ **Spatial Modes Anlysis:**
+   - The time varying magnetization at each cell is extracted and the spatial Fourier Transform is done to get the spatial distribution of resonance modes.
 
 ---
 
