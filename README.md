@@ -54,4 +54,10 @@ Ensure that you have the following dependencies installed:
 - **Chernyshenko, Dmitri**  
   *Computational methods in micromagnetics*,  
   *PhD Thesis*, University of Southampton, June 2016.  
-  URL: [https://eprints.soton.ac.uk/398126/](https://eprints.soton.ac.uk/398126/)  
+  URL: [https://eprints.soton.ac.uk/398126/](https://eprints.soton.ac.uk/398126/)
+
+- **OOMMF User Guide**  
+  The **Object-Oriented Micromagnetic Framework (OOMMF)** is a powerful open-source micromagnetic simulation software developed by NIST.  
+  - Official Documentation: [http://math.nist.gov/oommf/doc/](http://math.nist.gov/oommf/doc/)  
+  - OOMMF Downloads & Installation Guide: [http://math.nist.gov/oommf/](http://math.nist.gov/oommf/)  
+
